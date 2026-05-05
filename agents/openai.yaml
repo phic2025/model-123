@@ -1,0 +1,3 @@
+display_name: Model 123
+short_description: Clinical prediction model research workflow
+default_prompt: Use model-123 to review, design, analyze, visualize, and draft a clinical prediction model study.
